@@ -1,0 +1,12 @@
+.env
+.prettierignore
+.prettierrc
+node_modules
+cache
+artifacts
+.solhint.json
+gas-report.txt
+coverage.json
+coverage
+deployments
+*.log
